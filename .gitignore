@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+Dataset/
+saved_models/*.h5
+.streamlit/secrets.toml
